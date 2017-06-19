@@ -4,7 +4,7 @@ from unicodedata import normalize
 import threading
 import sys
 import os
-
+#novo testes
 arc = open(sys.argv[1],'r')
 newcsv = open(sys.argv[2],'w')
 line = []
